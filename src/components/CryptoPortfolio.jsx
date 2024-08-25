@@ -7,7 +7,7 @@ import {
   fetchCryptos,
   addToFavorites,
   removeFromFavorites,
-} from "./redux/reducers/cryptoSlice";
+} from "../redux/reducers/cryptoSlice";
 import { useSearchParams } from "react-router-dom";
 
 const { Title } = Typography;

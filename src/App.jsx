@@ -1,6 +1,6 @@
 // src/App.js
 import React from "react";
-import CryptoPortfolio from "./CryptoPortfolio";
+import CryptoPortfolio from "./components/CryptoPortfolio";
 import "antd/dist/reset.css"; // Import Ant Design styles
 import { Provider } from "react-redux";
 import store from "./redux/store";
